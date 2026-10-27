@@ -22,9 +22,12 @@
 | 10 | Nike Sweatpants | ✅ | ✅ |
 | 11 | BAPE x Comme des Garçons | ✅ | ✅ |
 | 12 | Barcelona Jersey | ✅ | ✅ |
+| 13 | BAPE Tshirt | ✅ | ✅ |
+| 14 | Corteiz Cargo Shorts | ✅ | ✅ |
+| 15 | Supreme Boxers | ✅ | ✅ |
 
 
-**Total products: 12**
+**Total products: 15**
 
 </div>
 
