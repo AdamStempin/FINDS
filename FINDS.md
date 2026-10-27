@@ -39,6 +39,7 @@
 ## 🧦 05. Nike Socks
 
 - **SG:** [Open on Sugargoo](https://m.sugargoo.com/products?productLink=https%3A%2F%2Fdetail.1688.com%2Foffer%2F871672793755.html&memberId=3603569130049857166)
+- **Price:** 1.50 €
 
 ---
 
