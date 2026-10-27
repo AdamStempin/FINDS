@@ -1,11 +1,15 @@
 # 🔎 Finds
 
-A curated collection of clothing, accessories and more.
+<p align="center">
+  A curated collection of clothing, accessories and more.
+</p>
 
 ## 📦 Product Overview
 
+<div align="center">
+
 | # | Product | QC | SG |
-|---:|---|:---:|:---:|
+|:---:|:---|:---:|:---:|
 | 01 | RL Fleece Quarter-Zip | ✅ | ✅ |
 | 02 | Polo Ralph Lauren Hooded Jacket | ✅ | ✅ |
 | 03 | Nike Sport Shorts | ✅ | ✅ |
@@ -16,13 +20,17 @@ A curated collection of clothing, accessories and more.
 | 08 | BAPE Shirt | ✅ | ✅ |
 | 09 | Under Armour Sport Set | ✅ | ✅ |
 
-**Total products:** 9
+**Total products: 9**
+
+</div>
 
 ## 🔗 Browse Products
 
-Looking for product links and quality checks?
-
-➡️ **[View All Finds](FINDS.md)**
+<p align="center">
+  Looking for product links and quality checks?
+  <br><br>
+  <a href="FINDS.md">🔎 View All Finds</a>
+</p>
 
 ---
 
