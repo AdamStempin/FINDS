@@ -19,8 +19,9 @@
 | 07 | Stanley Cup | — | ✅ |
 | 08 | BAPE Shirt | ✅ | ✅ |
 | 09 | Under Armour Sport Set | ✅ | ✅ |
+| 10 | Nike Sweatpants | ✅ | ✅ |
 
-**Total products: 9**
+**Total products: 10**
 
 </div>
 
