@@ -32,6 +32,7 @@
 
 - **QC:** [View Quality Check](https://doppel.fit/item/bspbudOlqV_vqS8flYCtMQ/qcs)
 - **SG:** [Open on Sugargoo](https://m.sugargoo.com/products?productLink=https%3A%2F%2Fdetail.1688.com%2Foffer%2F954118974492.html&memberId=3603569130049857166)
+- **Price:** 10.00 €
 
 ---
 
