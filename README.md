@@ -24,7 +24,7 @@
 | 12 | Barcelona Jersey | ✅ | ✅ |
 
 
-**Total products: 14**
+**Total products: 12**
 
 </div>
 
