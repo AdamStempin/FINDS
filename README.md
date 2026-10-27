@@ -20,8 +20,10 @@
 | 08 | BAPE Shirt | ✅ | ✅ |
 | 09 | Under Armour Sport Set | ✅ | ✅ |
 | 10 | Nike Sweatpants | ✅ | ✅ |
+| 11 | BAPE x Comme des Garçons | ✅ | ✅ |
+| 12 | Barcelona Jersey | ✅ | ✅ |
 
-**Total products: 10**
+**Total products: 12**
 
 </div>
 

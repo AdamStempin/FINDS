@@ -72,6 +72,22 @@
 
 ---
 
+## 👕 11. BAPE x Comme des Garçons
+
+- **QC:** [View Quality Check](https://zowhauls.com/api/catalog/qc?id=20829)
+- **SG:** [Open on Sugargoo](https://www.sugargoo.com/products?productLink=https%3A%2F%2Fitem.taobao.com%2Fitem.htm%3Fid%3D1064094484701&memberId=3603569130049857166)
+- **Price:** 13.50 €
+
+---
+
+## 👕 12. Barcelona Jersey
+
+- **QC:** [View Quality Check](https://zowhauls.com/api/catalog/qc?id=20892)
+- **SG:** [Open on Sugargoo](https://www.sugargoo.com/products?productLink=https%3A%2F%2Fdetail.1688.com%2Foffer%2F1032061304432.html&memberId=3603569130049857166)
+- **Price:** 3.00 €
+
+---
+
 ### 📝 Legend
 
 - **QC** — Quality Check
