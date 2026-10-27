@@ -16,6 +16,7 @@
 
 - **QC:** [View Quality Check](https://dontsueme.x.yupoo.com/albums/257754484?uid=1)
 - **SG:** [Open on Sugargoo](https://m.sugargoo.com/products?productLink=https%3A%2F%2Fweidian.com%2Fitem.html%3FitemID%3D7872496792&memberId=3603569130049857166)
+- **Price:** 40.00 €
 
 ---
 
