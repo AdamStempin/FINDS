@@ -88,19 +88,7 @@
 
 ---
 
-## 👕 13. Asspizza Tripple Boxlogo Long Sleeve
 
-- **QC:** [View Quality Check](https://zowhauls.com/api/catalog/qc?id=20932)
-- **SG:** [Open on Sugargoo](https://www.sugargoo.com/products?productLink=https%3A%2F%2Fitem.taobao.com%2Fitem.htm%3Fid%3D1056879932006&memberId=3603569130049857166)
-- **Price:** 12.50 €
-
----
-
-## 👕 14. Acne Studios Scarf
-
-- **QC:** [View Quality Check](https://zowhauls.com/api/catalog/qc?id=20924)
-- **SG:** [Open on Sugargoo](https://www.sugargoo.com/products?productLink=https%3A%2F%2Fdetail.1688.com%2Foffer%2F659766751240.html&memberId=3603569130049857166)
-- **Price:** 4.50 €
 
 ---
 
