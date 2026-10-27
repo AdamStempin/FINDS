@@ -65,7 +65,7 @@
 
 ---
 
-## 👕 10. Nike Sweatpants
+## 👖 10. Nike Sweatpants
 
 - **QC:** [View Quality Check](https://zowhauls.com/api/catalog/qc?id=20868)
 - **SG:** [Open on Sugargoo](https://www.sugargoo.com/products?productLink=https%3A%2F%2Fweidian.com%2Fitem.html%3FitemID%3D7843530514&memberId=3603569130049857166)
