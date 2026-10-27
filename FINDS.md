@@ -88,4 +88,3 @@
 - **QC** — Quality Check
 - **SG** — Sugargoo
 
-*All links are provided for easy access to the respective product pages and quality checks.*
