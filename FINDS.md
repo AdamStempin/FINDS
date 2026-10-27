@@ -8,6 +8,7 @@
 
 - **QC:** [View Quality Check](https://dontsueme.x.yupoo.com/albums/256323562?uid=1)
 - **SG:** [Open on Sugargoo](https://m.sugargoo.com/products?productLink=https%3A%2F%2Fweidian.com%2Fitem.html%3FitemID%3D7870283913&memberId=3603569130049857166)
+- **Price:** 16.50 €
 
 ---
 
@@ -42,6 +43,7 @@
 
 - **QC:** [View Quality Check](https://doppel.fit/item/xbJewEgDT5Mk6-p_ydNvBQ/qcs)
 - **SG:** [Open on Sugargoo](https://m.sugargoo.com/products?productLink=https%3A%2F%2Fdetail.1688.com%2Foffer%2F1028634960385.html&memberId=3603569130049857166)
+- **Price:** 10.50 €
 
 ---
 
