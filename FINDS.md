@@ -53,6 +53,7 @@
 ## 🥤 07. Stanley Cup
 
 - **SG:** [Open on Sugargoo](https://m.sugargoo.com/products?productLink=https%3A%2F%2Fdetail.1688.com%2Foffer%2F1068579157995.html&memberId=3603569130049857166)
+- **Price:** 3.50 €
 
 ---
 
