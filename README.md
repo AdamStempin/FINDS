@@ -22,8 +22,7 @@
 | 10 | Nike Sweatpants | ✅ | ✅ |
 | 11 | BAPE x Comme des Garçons | ✅ | ✅ |
 | 12 | Barcelona Jersey | ✅ | ✅ |
-| 13 | Asspizza Tripple Boxlogo Long Sleeve | ✅ | ✅ |
-| 14 | Acne Studios Scarf | ✅ | ✅ |
+
 
 **Total products: 14**
 
