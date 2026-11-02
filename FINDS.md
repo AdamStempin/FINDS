@@ -134,6 +134,16 @@
 
 ---
 
+## 🧥 17. Polo Ralph Lauren Zip Up Hoodie
+
+- **QC:** [View Quality Check](https://zowhauls.com/api/catalog/qc?id=15599)
+- **SG:** [Open on Sugargoo](https://www.sugargoo.com/products?productLink=https%3A%2F%2Fweidian.com%2Fitem.html%3FitemID%3D7870271137&memberId=3603569130049857166)
+- **Price:** $28.00
+- **Size:** XL
+- **Color:** gray
+
+---
+
 ### 📝 Legend
 
 - **QC** — Quality Check
