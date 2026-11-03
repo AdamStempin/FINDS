@@ -12,6 +12,7 @@
 - **QC:** [View Quality Check](https://dontsueme.x.yupoo.com/albums/256323562?uid=1)
 - **SG:** [Open on Sugargoo](https://m.sugargoo.com/products?productLink=https%3A%2F%2Fweidian.com%2Fitem.html%3FitemID%3D7870283913&memberId=3603569130049857166)
 - **Price:** 16.50 €
+- **G:** 565g M
 
 ---
 
@@ -20,6 +21,7 @@
 - **QC:** [View Quality Check](https://dontsueme.x.yupoo.com/albums/257754484?uid=1)
 - **SG:** [Open on Sugargoo](https://m.sugargoo.com/products?productLink=https%3A%2F%2Fweidian.com%2Fitem.html%3FitemID%3D7872496792&memberId=3603569130049857166)
 - **Price:** 40.00 €
+- **G:** 835g XL
 
 ---
 
@@ -28,6 +30,7 @@
 - **QC:** [View Quality Check](https://doppel.fit/item/Z3aiziUGx9k0ePc1Dk7Pfg/qcs)
 - **SG:** [Open on Sugargoo](https://m.sugargoo.com/products?productLink=https%3A%2F%2Fdetail.1688.com%2Foffer%2F937953798954.html&memberId=3603569130049857166)
 - **Price:** 4.50 €
+- **G:** 250g M
 
 ---
 
@@ -36,6 +39,7 @@
 - **QC:** [View Quality Check](https://doppel.fit/item/bspbudOlqV_vqS8flYCtMQ/qcs)
 - **SG:** [Open on Sugargoo](https://m.sugargoo.com/products?productLink=https%3A%2F%2Fdetail.1688.com%2Foffer%2F954118974492.html&memberId=3603569130049857166)
 - **Price:** 10.00 €
+- **G:** 750g 1
 
 ---
 
@@ -43,6 +47,7 @@
 
 - **SG:** [Open on Sugargoo](https://m.sugargoo.com/products?productLink=https%3A%2F%2Fdetail.1688.com%2Foffer%2F871672793755.html&memberId=3603569130049857166)
 - **Price:** 1.50 €
+- **G:** 110g 1ks(box)
 
 ---
 
@@ -51,6 +56,7 @@
 - **QC:** [View Quality Check](https://doppel.fit/item/xbJewEgDT5Mk6-p_ydNvBQ/qcs)
 - **SG:** [Open on Sugargoo](https://m.sugargoo.com/products?productLink=https%3A%2F%2Fdetail.1688.com%2Foffer%2F1028634960385.html&memberId=3603569130049857166)
 - **Price:** 10.50 €
+- **G:** 920g hoodie+pants
 
 ---
 
@@ -58,6 +64,7 @@
 
 - **SG:** [Open on Sugargoo](https://m.sugargoo.com/products?productLink=https%3A%2F%2Fdetail.1688.com%2Foffer%2F1068579157995.html&memberId=3603569130049857166)
 - **Price:** 3.50 €
+- **G:** 610g
 
 ---
 
@@ -65,6 +72,8 @@
 
 - **QC:** [View Quality Check](https://www.uufinds.com/goodItemDetail/qc/1891112864942493697?convertId=1&fromId=2113151356692983809)
 - **SG:** [Open on Sugargoo](https://m.sugargoo.com/products?productLink=https%3A%2F%2Fdetail.1688.com%2Foffer%2F883689590411.html&memberId=3603569130049857166)
+- **Price:** 3.75 €
+- **G:** 240g
 
 ---
 
