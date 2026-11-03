@@ -1,6 +1,6 @@
 <img width="2167" height="726" alt="FINDS" src="https://github.com/user-attachments/assets/e5dfaf73-3a33-465b-9cd9-903241cd0501" />
 <p align="center">
-  <img src="FINDS.png" alt="FINDS" width="360">
+  <img src="finds-logo.png" alt="FINDS" width="360">
 </p>
 
 # 🔎 Finds
