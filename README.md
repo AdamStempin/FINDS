@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="finds-logo.png" alt="FINDS" width="360">
+  <img src="FINDS.png" alt="FINDS" width="360">
 </p>
 
 # 🔎 Finds
