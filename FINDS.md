@@ -144,6 +144,47 @@
 
 ---
 
+## 👕 18. Off White Tshirt
+
+- **QC:** [View Quality Check](https://zowhauls.com/api/catalog/qc?id=22150)
+- **SG:** [Open on Sugargoo](https://www.sugargoo.com/products?productLink=https%3A%2F%2Fweidian.com%2Fitem.html%3FitemID%3D7874432481&memberId=3603569130049857166)
+- **Price:** 17.50 €
+- **Size:** M
+- **Color:** black
+
+---
+
+## 🧥 19. Adidas x Audi Zip Up Hoodie
+
+- **QC:** [View Quality Check](https://zowhauls.com/api/catalog/qc?id=22197)
+- **SG:** [Open on Sugargoo](https://www.sugargoo.com/products?productLink=https%3A%2F%2Fweidian.com%2Fitem.html%3FitemID%3D7876848276&memberId=3603569130049857166)
+- **Price:** 25.50 €
+- **Size:** M
+- **Color:** white
+
+---
+
+## 👕 20. Nike x Nocta Balaclava
+
+- **QC:** [View Quality Check](https://zowhauls.com/api/catalog/qc?id=22373)
+- **SG:** [Open on Sugargoo](https://www.sugargoo.com/products?productLink=https%3A%2F%2Fweidian.com%2Fitem.html%3FitemID%3D7874598992&memberId=3603569130049857166)
+- **Price:** 9.00 €
+- **Size:** uni
+- **Color:** black
+
+---
+
+## 👕 21. Nike x PSG Tech Fleece Sweatpants
+
+- **QC:** [View Quality Check](https://zowhauls.com/api/catalog/qc?id=13592)
+- **SG:** [Open on Sugargoo](https://www.sugargoo.com/products?productLink=https%3A%2F%2Fweidian.com%2Fitem.html%3FitemID%3D7873331876&memberId=3603569130049857166)
+- **Price:** 21.50 €
+- **Size:** M
+- **Color:** PSG, black
+- **Part:** Pants only
+
+---
+
 ### 📝 Legend
 
 - **QC** — Quality Check
