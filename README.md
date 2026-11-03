@@ -1,7 +1,4 @@
-<img width="2167" height="726" alt="FINDS" src="https://github.com/user-attachments/assets/e5dfaf73-3a33-465b-9cd9-903241cd0501" />
-<p align="center">
-  <img src="finds-logo.png" alt="FINDS" width="360">
-</p>
+<img width="1000" height="264" alt="finds-logo" src="https://github.com/user-attachments/assets/e7f824a5-3200-4b48-afd6-b751a8cc9f5d" />
 
 # 🔎 Finds
 
